@@ -1,6 +1,6 @@
 # docker-2048
 
-simple is better
+simple is better.
 
 a smaller docker version of 2048
 
